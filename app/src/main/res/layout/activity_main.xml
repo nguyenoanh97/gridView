@@ -7,8 +7,12 @@
     tools:context=".MainActivity">
 
     <GridView
-        android:id="@+id/gridviewTen"
-        android:numColumns="4"
+        android:id="@+id/gridviewHinhAnh"
+        android:numColumns="3"
+        android:background="#D1C099"
+        android:verticalSpacing="5dp"
+        android:horizontalSpacing="5dp"
+
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         tools:layout_editor_absoluteX="147dp"
